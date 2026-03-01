@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=D7-1
+Removed Pin From Net: NetName=GPIO4 Pin=D8-1
+Removed Pin From Net: NetName=GND Pin=D8-2
+Removed Pin From Net: NetName=GPIO15 Pin=D8-3
+Removed Pin From Net: NetName=+5 Pin=R10-1
+Removed Member From Class: ClassName=Sheet1 Member=D7
+Removed Member From Class: ClassName=Sheet1 Member=D8
+Removed Member From Class: ClassName=Sheet1 Member=R10
